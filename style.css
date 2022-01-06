@@ -1,28 +1,107 @@
+
 h1{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 40px;
+    line-height: 30px;
 }
-.green-color{
-    color: rgb(253, 75, 4);
-    font-family: 'Gloria Hallelujah', cursive;
-    font-size: 40px;
-}
+
 section{
     display:flex
 }
-.half-width{
+.half-width-prag{
     width: 50%;
-    padding-left: 50px;
+    padding-left: 150px;
+    width: 400px;
+    height: 170px;
+    margin: 50px 10px 0px 100px;
+    background-color: white;
+    border-left: 7px solid tomato;
+    padding-left: 1%;
+    border-radius: 10px;
+    text-align: justify;
+    word-spacing: 0px;
 }
-.half-width img {
-    width: 50%;
+
+.half-width2 {
+     
+    margin-left: 350px;
+ margin-top: 50px;
 }
 .link-button{
     text-decoration: none;
-    background: linear-gradient(50deg, rgb(223, 56, 14),rgb(243, 67, 36));
+    background: linear-gradient(50deg, rgb(223, 56, 14),rgb(75, 26, 17));
     padding: 10px 25px;
     border-radius: 10px;
-    color: black;
+    color: white;
     font-size: 800;
 
 }
+.yelow-color{
+    color: rgb(253, 75, 4);
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+.mission{
+    background-color: rgb(236, 200, 200);
+  width: 300px;
+  border: 2px solid green;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 60px;
+  line-height: 30px;
+}
+.Vission{
+    background-color: rgb(252, 239, 218);
+    width: 300px;
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 60px;
+    line-height: 30px;
+  
+}
+.goals{
+    background-color: rgb(222, 215, 248);
+    width: 300px;
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 60px;
+    line-height: 30px;
+   
+}
+.coding{
+  margin: 50px;
+}
+.develop{
+    padding-right: 50px;
+    font-weight: 700;
+    line-height: 30px;
+}
+#p2{
+     background-color: black;
+     text-align:center;
+    }
+    
+    .community{
+         
+         margin-left: 50px;
+         padding-right: 250px;
+         line-height: 30px;
+    }
+    footer{
+        background-color: rgb(39, 31, 31);
+        height: 150px;
+        width: auto;
+        color: papayawhip;
+        text-align: center;
+        padding: 10px 0px 10px 0px;
+        margin-top: 50px;
+    }
+    
+
+
+    
+    
+
+    
