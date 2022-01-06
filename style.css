@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+}
+.green-color{
+    color: rgb(253, 75, 4);
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 40px;
+}
+section{
+    display:flex
+}
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.half-width img {
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(50deg, rgb(223, 56, 14),rgb(243, 67, 36));
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: black;
+    font-size: 800;
+
+}
